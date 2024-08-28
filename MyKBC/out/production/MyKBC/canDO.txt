@@ -1,0 +1,15 @@
+1 . Not hard coded questions it should be inserted By Admin
+
+2 . App will ask are you Admin ? 
+    if Yes : 
+            1. Take the Credentials from the user as here we will just keep one Admin 
+               So that no need to store information about Admin
+            2. For which questions number do you want to insert the questions
+               Use will insert question number and then insert the question, options, Correct Answer
+    if No  :
+            Print -> For setting up the questions you must be Admin 
+
+3 . In Lifeline Section We will set LifeLine for each individual Correct options
+    So there are 4 sections in lifeline we will Make Correct Graphs(Audience Poll) for it 
+
+4 . Login Page But in Command Line 
